@@ -1,0 +1,18 @@
+# Sistema Operacional (Linux Mint / Windows)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor de Código (VS Code)
+.vscode/
+*.swp
+*.swo
+
+# Temporários e Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Se usar alguma pasta de imagens gigante ou pesada que não queira no Git
+# imagens/backup/
