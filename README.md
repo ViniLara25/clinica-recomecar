@@ -3,6 +3,11 @@
 ![Static Badge](https://img.shields.io/badge/Status-Finalizado-green)
 ![Static Badge](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS-blue)
 
+## 🎉🦾🌐 Acesse o Projeto
+Para visualizar a Landing Page ao vivo, clique no botão abaixo:
+
+[![Visite o Site](https://img.shields.io/badge/Acesse_o_Site-Clique_Aqui-28a745?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinilara25.github.io/clinica-recomecar/)
+
 ## 🎯 Sobre o Projeto
 Esta é uma Landing Page de alta conversão desenvolvida para uma clínica de reabilitação com sede em Ribeirão Preto - SP. O projeto foi concebido para unir um design acolhedor a uma arquitetura de software performática, focada na jornada do utilizador e na conversão direta via WhatsApp.
 
